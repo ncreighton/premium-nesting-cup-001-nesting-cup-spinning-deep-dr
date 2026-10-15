@@ -1,0 +1,2 @@
+# premium-nesting-cup-001-nesting-cup-spinning-deep-dr
+Tired of losing track of tooling setups and material specs between spinning and deep draw stages for your nesting cup runs?  This Notion template centralizes all your craft parameters—from blank sizes to spinner speeds—so you never miss a critical dimension. Built specifically for the unique workflow of nesting cup fabrication, it eliminates guessw
